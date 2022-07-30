@@ -1,0 +1,77 @@
+body{
+	background-image: url(Pictures/comet.jpg); 
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+h1{
+	font-size: 45px;
+}
+
+table{
+	border: 5px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2{
+	text-align: center;
+	font-size: 35px;
+}
+
+.sect{
+	text-align: center;
+	font-family: arial;
+	padding: 120px;
+}
+
+.navigation{
+	overflow: hidden;
+    background-color: #333;
+    font-family: sans-serif;
+}
+
+.navigation a{
+	float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: underline;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: sans-serif;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: underline;
+}
+
+.navbar a:hover{
+	color: black;
+	background-color: white;
+}
+
+.sectwithtext{
+	font-family: arial;
+	padding: 150px;
+}
+
+.sectother{
+	font-family: arial;
+	text-align: center;
+}
